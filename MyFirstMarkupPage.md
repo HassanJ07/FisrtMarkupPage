@@ -1,7 +1,6 @@
 # Hasan Fakkus : Future developper
-
 ---
-I'm currently training to be a developper at Becode, i come frome video editing and directing all kinds of videos i've did that for five years and even founded a company with a friend but then COVID happend.. so i decided to go with my first love : programming and developping!
+I'm currently training to be a developper at Becode, i come frome video editing and directing all kinds of videos and i've did that for five years and even founded a company with a friend but then COVID happend.. so i decided to go with my first love : programming and developping!
 
 ### My 3 most surprising skills :
 1. Guitar playing
@@ -22,7 +21,7 @@ I'm currently training to be a developper at Becode, i come frome video editing 
 
 ### The Fears I have.
 
-I don't fear much things in life but the thing that comes to my min is the fear of not achieving my goals and dreams in time.
+I don't fear much things in life but the thing that comes to my mind is the fear of not achieving my goals and dreams in time.
 
 ### The things I look forward to.
 
